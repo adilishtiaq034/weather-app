@@ -9,7 +9,7 @@ A modern weather application built with React that provides real-time weather in
 ---
 ## Preview
 
-![Weather App](assets/weather.png)
+![Weather App](src/assets/weather.png)
 
 ---
 
