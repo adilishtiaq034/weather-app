@@ -1,6 +1,6 @@
 # React Weather App
 
-A modern weather application built with React that provides real-time weather information for any city using the OpenWeather API.
+A modern weather application built with React that provides real time weather information for any city using the OpenWeather API.
 
 ## Live Demo
 
